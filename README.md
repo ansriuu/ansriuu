@@ -13,8 +13,10 @@ This profile is a collection of some of those for fun programs, and some big pro
 
 --- 
 
+### at the moment --
+- sadly busy, not working on anything.
 
-### currently working on 
+### currently working on (long term)
 - an x86 architecture BIOS-based operating system from scratch. (repository MYlovelyOS)
 - a mathematical implementation of an ai architecture, I have thought of, currently nothing around it is present on github. The writeup is still at progress, once done it will be added here. 
 
@@ -41,5 +43,5 @@ I'd love to be friends with people with similar interest, if you are such, you c
 - something like "virtual memory" for information itself -- a bit that could hold more than 2 states (not a qubit, something different) so a single unit stores more than just 0 or 1
 
 
-###### otuside of coding 
+###### outside of coding 
 I love reading, especially fiction. Would recommend anyone to step into the world of webnovels anytime. I would love to write a novel myself someoday. 
