@@ -17,7 +17,7 @@ This profile is a collection of some of those for fun programs, and some big pro
 - sadly busy, not working on anything.
 
 ### currently working on (long term)
-- an x86 architecture BIOS-based operating system from scratch. (repository MYlovelyOS)
+- an x86 architecture BIOS-based operating system from scratch. (repository MYlovelyOS )
 - a mathematical implementation of an ai architecture, I have thought of, currently nothing around it is present on github. The writeup is still at progress, once done it will be added here. 
 
 ---
@@ -27,7 +27,7 @@ This profile is a collection of some of those for fun programs, and some big pro
 - fun and small programs -- file reader, numbers-and-binary 
 - projects from the fields mentioned above -- an_nn, PPM image viewer
 - mathematics and programming -- binary goldbach conjecture
-- computer and its working's implementation -- full adder, selector
+- computer and its workings implementation -- full adder, selector
 - good things i learned --things like sscanf/sprintf or cleanup attribute of GCC/CLANG (so as to not forget about them) 
 
 ---
@@ -44,4 +44,4 @@ I'd love to be friends with people with similar interest, if you are such, you c
 
 
 ###### outside of coding 
-I love reading, especially fiction. Would recommend anyone to step into the world of webnovels anytime. I would love to write a novel myself someoday. 
+I love reading, especially fiction. Would recommend anyone to step into the world of web-novels anytime. I would love to write a novel myself someday. 
